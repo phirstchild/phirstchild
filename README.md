@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @phirstchild
 - 👀 I’m interested in being a Full Stack Software Engineer 
-- 🌱 I’m currently learning @ALX Africa
+- 🌱 I’m currently learning @Vephla and @ALX Africa
 - 📫 You can reach me via email"sulaiman.zainab79@gmail.com
 <!---
 phirstchild/phirstchild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
